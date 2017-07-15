@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">kaktyc</string>
+    <string name="off">назад</string>
+    <string name="yes">далее</string>
+    <string name="one">Излучение</string>
+    <string name="two">Свободная конвекция</string>
+    <string name="three">Вынужденная конвекция</string>
+</resources>
