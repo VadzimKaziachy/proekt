@@ -1,0 +1,2 @@
+https://stackoverflow.com/questions/20594936/communication-between-activity-and-service
+https://developer.android.com/guide/components/bound-services.html#Binding
